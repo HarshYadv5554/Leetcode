@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/HarshYadv5554/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshYadv5554/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Design
 |  |
 | ------- |
@@ -21,12 +22,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/HarshYadv5554/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshYadv5554/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/HarshYadv5554/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshYadv5554/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Iterator
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/HarshYadv5554/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Hash Table
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshYadv5554/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Two Pointers
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshYadv5554/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshYadv5554/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshYadv5554/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
