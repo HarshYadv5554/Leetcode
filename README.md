@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/HarshYadv5554/Leetcode/tree/master/0078-subsets) |
 | [0733-flood-fill](https://github.com/HarshYadv5554/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/HarshYadv5554/Leetcode/tree/master/1036-rotting-oranges) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/HarshYadv5554/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Matrix
 |  |
 | ------- |
