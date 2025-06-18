@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/HarshYadv5554/Leetcode/tree/master/1036-rotting-oranges) |
 | [1306-minimum-absolute-difference](https://github.com/HarshYadv5554/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/HarshYadv5554/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/HarshYadv5554/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/HarshYadv5554/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Matrix
 |  |
@@ -87,4 +88,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-minimum-absolute-difference](https://github.com/HarshYadv5554/Leetcode/tree/master/1306-minimum-absolute-difference) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/HarshYadv5554/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+## Greedy
+|  |
+| ------- |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/HarshYadv5554/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 <!---LeetCode Topics End-->
