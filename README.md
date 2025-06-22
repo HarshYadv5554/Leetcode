@@ -96,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/HarshYadv5554/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/HarshYadv5554/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+## String
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/HarshYadv5554/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Simulation
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/HarshYadv5554/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
