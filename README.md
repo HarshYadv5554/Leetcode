@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/HarshYadv5554/Leetcode/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshYadv5554/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
@@ -99,9 +100,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/HarshYadv5554/Leetcode/tree/master/0392-is-subsequence) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/HarshYadv5554/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Simulation
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/HarshYadv5554/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/HarshYadv5554/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
