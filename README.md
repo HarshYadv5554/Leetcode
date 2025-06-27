@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshYadv5554/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HarshYadv5554/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/HarshYadv5554/Leetcode/tree/master/0392-is-subsequence) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/HarshYadv5554/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HarshYadv5554/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Simulation
 |  |
 | ------- |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/HarshYadv5554/Leetcode/tree/master/0392-is-subsequence) |
+## Counting
+|  |
+| ------- |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HarshYadv5554/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 <!---LeetCode Topics End-->
