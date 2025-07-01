@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/HarshYadv5554/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshYadv5554/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/HarshYadv5554/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HarshYadv5554/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/HarshYadv5554/Leetcode/tree/master/0078-subsets) |
+| [0594-longest-harmonious-subsequence](https://github.com/HarshYadv5554/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0733-flood-fill](https://github.com/HarshYadv5554/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/HarshYadv5554/Leetcode/tree/master/1036-rotting-oranges) |
 | [1306-minimum-absolute-difference](https://github.com/HarshYadv5554/Leetcode/tree/master/1306-minimum-absolute-difference) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/HarshYadv5554/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1306-minimum-absolute-difference](https://github.com/HarshYadv5554/Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/HarshYadv5554/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/HarshYadv5554/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -119,9 +122,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/HarshYadv5554/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HarshYadv5554/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/HarshYadv5554/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/HarshYadv5554/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
